@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm Udit Varshney</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+ ![MasterHead](https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133) 
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Udit+Varshney!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<h1 align="center"> 😇(Hello everyone)"Udit Varshney 👋</h1>
+<h3 align="center">A passionate Backend Developer from India</h3>
+
+<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uditshetty&label=Profile%20views&color=0e75b6&style=flat" alt="uditshetty" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uditshetty" alt="uditshetty" /></a> </p>
@@ -36,6 +42,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uditshetty&show_icons=true&locale=en&theme=dark" alt="uditshetty" height="125"  />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=uditshetty&theme=dark" alt="uditshetty" height="125"  /></p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
+
+<p align="left"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"></p>
+
 
 
 
