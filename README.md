@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Udit123.uv@gmail.com**
 
-- 📄 Know about my experiences [Rlink****](Rlink****)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FJG-Zb7W-O9lIboBPpqqyqqOhMNrn4Dy/view?usp=sharing)
 
 - ⚡ Fun fact **I am crazy coder**
 
