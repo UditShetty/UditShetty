@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java Backend**
 
-- 👨‍💻 All of my projects are available at [link***](link***)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://uditshetty.github.io/)
 
 - 💬 Ask me about **Java**
 
