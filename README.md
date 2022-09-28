@@ -18,9 +18,11 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://uditshetty.github.io/)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java,SQL**
 
 - 📫 How to reach me **Udit123.uv@gmail.com**
+
+- 📫 How to reach me **https://linkedin.com/in/udit-varshney-ba678121b**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FJG-Zb7W-O9lIboBPpqqyqqOhMNrn4Dy/view?usp=sharing)
 
