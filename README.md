@@ -50,7 +50,8 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uditshetty&show_icons=true&locale=en&theme=dark" alt="uditshetty" height="125"  />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=uditshetty&theme=dark" alt="uditshetty" height="125"  /></p>
+<!--
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=uditshetty&theme=dark" alt="uditshetty" height="125"  /></p> -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
 
