@@ -35,8 +35,96 @@
 <a href="https://twitter.com/Udit123Uv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udit varshney" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<h2 align="center" border="0">🛠 &nbsp;
+	Tech Stack </h2>
+
+<br>
+
+<table align="center">
+
+<tbody>
+
+ <tr valign="top">
+
+<td width="25%" align="center">
+
+<span>Java</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>MySQL</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>Hibernate</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/hibernate.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>Spring Boot</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
+
+</td>
+	 
+</td>
+
+</tr>
+ 
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗖𝗦𝗦𝟯</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+
+</td>
+
+
+<td width="25%" align="center">
+
+<span>𝗚𝗶𝘁-Hub</span><br><br>
+
+<img height="64px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
+
+</td>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+ 
 
 
 
